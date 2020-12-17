@@ -1,0 +1,15 @@
+<!--  looping case
+	@foreach($tbl_property as $tbl_property)
+														
+													
+													
+
+													@foreach($x as $tbl_property->no_of_blocks){
+
+														@php echo $x; @endphp
+														   
+													@end 
+
+													@endforeach
+
+-->
